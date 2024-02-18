@@ -1,20 +1,14 @@
 # Hi there, I'm Jose! 👋
 
 ## 🚀 About Me
-I'm a [Your Job Title/Passion], currently diving deep into [Your Field or Technology of Interest]. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+I'm a Backend Engineer, currently diving deep into Machine Learning. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
+
+I currently work for [N26](https://github.com/n26) although most of my work over there is private.
 
 ## 🌐 Social Links
-[![LinkedIn][1.1]][1]
-[![Twitter][2.1]][2]
-[![GitHub][3.1]][3]
-
-[1.1]: (link to LinkedIn icon)
-[2.1]: (link to Twitter icon)
-[3.1]: (link to GitHub icon)
-
-[1]: (Your LinkedIn URL)
-[2]: (Your Twitter URL)
-[3]: (Your GitHub URL)
+[LinkedIn](www.linkedin.com/in/jose-alamo-29a676125)
+[Personal GitHub](https://github.com/ElGuayaba)
+[Work GitHub](https://github.com/jose-alamo-private)
 
 ## 💻 Some of My Projects
 - [Project Name 1](GitHub link) - A brief description of what it does
