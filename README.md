@@ -1,4 +1,4 @@
-# Hi there, I'm Jose! 👋
+# [WIP] Hi there, I'm Jose! 👋
 
 ## 🚀 About Me
 I'm a Backend Engineer, currently diving deep into Machine Learning. I love to explore new technologies and leverage them to solve real-life problems. I'm passionate about sharing knowledge, contributing to open source projects, and building community.
