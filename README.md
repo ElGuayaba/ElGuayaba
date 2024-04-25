@@ -15,7 +15,7 @@ I currently work for [N26](https://github.com/n26) although most of my work over
 - [Pet Classifier](https://github.com/ElGuayaba/deep-learning) - A Neural Network that tries to classify pictures of cats and dogs.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-alamo-private&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ElGuayaba&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 The best way to reach me is to send me an email at [alamose2@gmail.com] or DM me on [LinkedIn](https://www.linkedin.com/in/jose-alamo-29a676125/).
