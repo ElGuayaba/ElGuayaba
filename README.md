@@ -6,9 +6,9 @@ I'm a Backend Engineer, currently diving deep into Machine Learning. I love to e
 I currently work for [N26](https://github.com/n26) although most of my work over there is private.
 
 ## 🌐 Social Links
-[LinkedIn](www.linkedin.com/in/jose-alamo-29a676125)
-[Personal GitHub](https://github.com/ElGuayaba)
-[Work GitHub](https://github.com/jose-alamo-private)
+- [LinkedIn](www.linkedin.com/in/jose-alamo-29a676125)
+- [Personal GitHub](https://github.com/ElGuayaba)
+- [Work GitHub](https://github.com/jose-alamo-private)
 
 ## 💻 Some of My Projects
 - [CS:GO Match Predictor](https://github.com/ElGuayaba/cs-go-match-predictor) - A fully deployable Deep Learning model that tries to predic the results of CS:GO matches. 
